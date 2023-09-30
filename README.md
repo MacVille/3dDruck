@@ -21,3 +21,11 @@ Es war auch der Standard, das hat mir über drei Jahre gute Dienste geleistet.
 Nach einiger Zeit habe ich auf einen Custom Firmware umgestellt, und zwar auf [Knutwurst](https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S)
 um auch einen [BLTouch](https://www.amazon.de/ANTCLABS-BLTouch-Smart-Antclabs-BLTouch/dp/B01FFV2TOS) zu nutzen.
 
+Nach der Umstellung von Standard Firmware auf Custom lief der Drucker gut und es gab viele schöne Stunden.
+
+Aber wie alles mal ein Ende hat, war Klipper der neue Anfang :D
+
+Die Möglichkeit jede Einstellung des Druckers anzupassen, fande ich eine gute Möglichkeit mehr über den Drucker zulernen. Was sind die Limits, was kann der Drucker alles machen und was kann er nicht machen.
+
+
+
