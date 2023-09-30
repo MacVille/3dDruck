@@ -1,6 +1,6 @@
 # Klipper Konfiguration für den Anycubic i3 Megs S
 
-![[IMG_9937.JPG]]
+![Anycubic i3 Mega S](https://github.com/MacVille/i3Mega-S-Klipper/blob/main/Images/IMG_9937.JPG)
 
 ## Was wurde an dem i3 Mega S geändert?
 
