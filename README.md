@@ -4,13 +4,14 @@
 
 ## Was wurde an dem i3 Mega S geändert?
 
-| Type                 | Änderung                                    | URL                                                                                           |
-| -------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| X-Carrier            | Umbau auf Anycubic i3 Mega X-Carriage [MK4] | https://www.thingiverse.com/thing:3537449                                                     |
-| Druckbettschrauben   | Silikon                                     | https://www.amazon.de/Isolierte-3D-Drucker-beheiztes-Nivellierung-Anycubic/dp/B08DLY7JN8?th=1 |
-| Extruder Position    |                                             | https://www.thingiverse.com/thing:4753988                                                     |
-| BLTouch |                                             | https://www.amazon.de/ANTCLABS-BLTouch-Smart-Antclabs-BLTouch/dp/B01FFV2TOS                   |
-| Firmware             | Knutwurst Custom Firmware                                            |   https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S                                                                                            |
+| Type               | Änderung                                    | URL                                                                                           |
+| ------------------ | ------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| X-Carrier          | Umbau auf Anycubic i3 Mega X-Carriage [MK4] | https://www.thingiverse.com/thing:3537449                                                     |
+| Druckbettschrauben | Silikon                                     | https://www.amazon.de/Isolierte-3D-Drucker-beheiztes-Nivellierung-Anycubic/dp/B08DLY7JN8?th=1 |
+| Extruder Position  |                                             | https://www.thingiverse.com/thing:4753988                                                     |
+| BLTouch            |                                             | https://www.amazon.de/ANTCLABS-BLTouch-Smart-Antclabs-BLTouch/dp/B01FFV2TOS                   |
+| Firmware           | Knutwurst Custom Firmware                   | https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S                                  |
+| Stepper Treiber    | TMC2208                                     |                                                                                               |
 
 ---
 
@@ -29,5 +30,6 @@ Die Möglichkeit jede Einstellung des Druckers anzupassen, fande ich eine gute M
 
 ---
 
+## Inhaltsverzeichnis:
 
-
+KlipperConfig
