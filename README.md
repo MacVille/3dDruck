@@ -34,10 +34,13 @@ Die Möglichkeit jede Einstellung des Druckers anzupassen, fande ich eine gute M
 
 + [KlipperConfig](/KlipperConfig/config.md)
 	+ [includes](/KlipperConfig/includes/includes.md) 
-		+ [Area Mesh Macro](/KlipperConfig/includes/area_mesh/area_mesh.md)
+		+ [Area Mesh Macro](/readme.md#area mesh macro)
 		+ [BLTouch Einstellungen](/KlipperConfig/includes/bltouch/bltouch.md)
 		+ [LED Settings (aktuell nicht in Nutzung)](/KlipperConfig/includes/leds/leds.md)
 		+ [Allgemeine Macros](/KlipperConfig/includes/macros/macros.md)
 		+ [PID Macros](/KlipperConfig/includes/pid/pid.md)
 		+ [Start-, Stop und Purge Macros](/KlipperConfig/includes/start_stop/start_stop.md)
+
+
+### [Area Mesh Macro](/KlipperConfig/includes/area_mesh/area_mesh.md)
 
