@@ -42,16 +42,16 @@ Die Möglichkeit jede Einstellung des Druckers anzupassen, fande ich eine gute M
 		+ [Start-, Stop und Purge Macros](https://github.com/MacVille/i3Mega-S-Klipper#start--stop-und-purge-macros)
 
 
-### Area Mesh Macro
+### [Area Mesh Macro](KlipperConfig/includes/area_mesh/area_mesh.md)
 
-### BLTouch Einstellungen
+### [BLTouch Einstellungen](/KlipperConfig/includes/bltouch/bltouch.md)
 
-### LED Settings
+### [LED Settings](/KlipperConfig/includes/leds/leds.md)
 
-### Allgemeine Macros
+### [Allgemeine Macros](/KlipperConfig/includes/macros/macros.md)
 
-### PID Macros
+### [PID Macros](/KlipperConfig/includes/pid/pid.md)
 
-### Start-, Stop und Purge Macros
+### [Start-, Stop und Purge Macros](/KlipperConfig/includes/start_stop/start_stop.md)
 
 
