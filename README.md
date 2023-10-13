@@ -32,4 +32,6 @@ Die Möglichkeit jede Einstellung des Druckers anzupassen, fande ich eine gute M
 
 ## Inhaltsverzeichnis:
 
-KlipperConfig
++ KlipperConfig
+	+ [includes](/includes/)
+	+ 
