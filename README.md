@@ -11,7 +11,13 @@
 | Extruder Position  |                                             | https://www.thingiverse.com/thing:4753988                                                     |
 | BLTouch            |                                             | https://www.amazon.de/ANTCLABS-BLTouch-Smart-Antclabs-BLTouch/dp/B01FFV2TOS                   |
 | Firmware           | Knutwurst Custom Firmware                   | https://github.com/knutwurst/Marlin-2-0-x-Anycubic-i3-MEGA-S                                  |
-| Stepper Treiber    | TMC2208                                     |                                                                                               |
+| Stepper Treiber    | TMC2208                                     | https://www.amazon.de/gp/product/B07J6SKQGF                                                   |
+
+##### Neuste Änderungen:
+| Type     | Änderungen         | URL |
+| -------- | ------------------ | --- |
+| Firmware | Marlin --> Klipper |     |
+| Endstops | Optische Endstops (wie bei Anycubic Chiron) | https://www.amazon.de/gp/product/B07PX8ZFXN |         |                    |     |
 
 ---
 
