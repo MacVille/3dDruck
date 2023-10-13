@@ -42,5 +42,4 @@ Die Möglichkeit jede Einstellung des Druckers anzupassen, fande ich eine gute M
 		+ [Start-, Stop und Purge Macros](/KlipperConfig/includes/start_stop/start_stop.md)
 
 
-### [Area Mesh Macro](/KlipperConfig/includes/area_mesh/area_mesh.md)
-
+### Area Mesh Macro
