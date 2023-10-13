@@ -33,7 +33,7 @@ Die Möglichkeit jede Einstellung des Druckers anzupassen, fande ich eine gute M
 ## Inhaltsverzeichnis:
 
 + [KlipperConfig](/KlipperConfig/config.md)
-	+ [includes](/KlipperConfig/includes/includes.md) 
+	+ includes
 		+ [Area Mesh Macro](https://github.com/MacVille/i3Mega-S-Klipper#area-mesh-macro)
 		+ [BLTouch Einstellungen](https://github.com/MacVille/i3Mega-S-Klipper#bltouch-einstellungen)
 		+ [LED Settings (aktuell nicht in Nutzung)](https://github.com/MacVille/i3Mega-S-Klipper#led-settings)
