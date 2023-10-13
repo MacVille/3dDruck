@@ -32,6 +32,12 @@ Die Möglichkeit jede Einstellung des Druckers anzupassen, fande ich eine gute M
 
 ## Inhaltsverzeichnis:
 
-+ KlipperConfig
-	+ [includes](/includes/)
-	+ 
++ [KlipperConfig](/KlipperConfig/config.md)
+	+ [includes](/KlipperConfig/includes/includes.md)
+		+ [area_mesh](/KlipperConfig/includes/area_mesh)
+		+ [bltouch](/KlipperConfig/includes/bltouch)
+		+ [leds](/KlipperConfig/includes/leds)
+		+ [macros](/KlipperConfig/includes/macros)
+		+ [pid](/KlipperConfig/includes/pid)
+		+ [start_stop](/KlipperConfig/includes/start_stop)
+
